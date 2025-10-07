@@ -1,4 +1,27 @@
-## Hi there 👋
+
+style{
+@keyframes parpadeo { from { opacity: 1; } to { opacity: 0; }}
+
+.parpadeo { 
+    animation: parpadeo 0.8s infinite; 
+}
+}
+
+<h1 class="parpadeo">Hola, soy Lucia </h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Hi there 👋
 
 **luciferma14/luciferma14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,5 +34,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
