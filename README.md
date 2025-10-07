@@ -1,13 +1,31 @@
 
-style{
-@keyframes parpadeo { from { opacity: 1; } to { opacity: 0; }}
+<img src="./cabecera.png"/>
 
-.parpadeo { 
-    animation: parpadeo 0.8s infinite; 
-}
-}
+<h1 align="center">Hola, me llamo <strong>Lucía</strong></h1>
 
-<h1 class="parpadeo">Hola, soy Lucia </h1>
+<h3>Un poco de mí</h3>
+<p>Soy una estudiante del Grado Superior de Desarrollo de Aplicaciones Web (DAW).</p>
+
+* Me encanta la música, en mis ratos libres intento mejorar con la guitarra.
+* Ahora mismo estoy estudiando en La Senia.
+* Siempre me ha llamado la atención el mundo de las páginas webs y como se pueden llegar a desarrolar.
+<hr>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luciferma14&theme=tokyonight"/>
+</p>
+
+<h3>Mis Skills</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,java,aws,github,gitlab,linux,mysql,php,vscode&perline=6"/>
+</p>
+
+
+<h3>Lenguajes que más uso</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciferma14&theme=tokyonight"/>
+</p>
+
 
 
 
