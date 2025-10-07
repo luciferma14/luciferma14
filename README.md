@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,git,java,aws,github,gitlab,linux,mysql,php,vscode&perline=6"/>
 </p>
 
-
 <h2>Lenguajes que más uso</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciferma14&theme=tokyonight"/>
